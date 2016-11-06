@@ -24,16 +24,19 @@ namespace Arrays1
             {
                 Console.Write(myArray[i] + ", "); 
             }
-           
+
+            Console.ReadLine();
+
+            string[] cavsStartingFive = { "Lebron", "Kyrie", "Smith", "Shumpert", "Thompson" };
+            for (int i = 0; i < cavsStartingFive.Length; i++)
+            {
+                Console.WriteLine(cavsStartingFive[i]);
+            }
 
 
-                
-           
-        
 
 
-
-
+          
         }
     }
 }
