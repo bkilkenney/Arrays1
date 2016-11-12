@@ -12,6 +12,7 @@ namespace Arrays1
         {
 
             //Random comment for testing github
+            //Another comment for testing
 
           int[] myArray = new int[5];  //new means data we are going to create
             myArray[0] = 12;           
