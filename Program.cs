@@ -10,6 +10,9 @@ namespace Arrays1
     {
         static void Main(string[] args)
         {
+
+            //Random comment for testing github
+
           int[] myArray = new int[5];  //new means data we are going to create
             myArray[0] = 12;           
             myArray[1] = 15;
